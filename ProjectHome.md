@@ -1,0 +1,1 @@
+This is an implementation of the n-Puzzle game (also known as 15-puzzle. See http://en.wikipedia.org/wiki/Fifteen_puzzle for details). Included is a sample application demonstrating the use of this view in an XML layout.
